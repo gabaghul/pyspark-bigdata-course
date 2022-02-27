@@ -1,2 +1,4 @@
 parquet
-part_parquet
+*_parquet
+pga_tour_historical.csv
+write_test2.csv
